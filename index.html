@@ -1,14 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="tr">
 <head>
-    <title>Ege Ilıcalı Dijital Arşivi</title>
+    <meta charset="UTF-8">
+    <title>Ege Ilıcalı - Dosya Dizini</title>
+    <style>
+        body { font-family: monospace; background: #f4f4f4; padding: 20px; }
+        .directory-box { background: white; border: 1px solid #ccc; padding: 15px; border-radius: 5px; }
+        .item { margin: 5px 0; }
+        .folder::before { content: "📁 "; }
+        .file::before { content: "📄 "; }
+        a { text-decoration: none; color: blue; }
+        a:hover { text-decoration: underline; }
+    </style>
 </head>
 <body>
-    <h1>Ege Ilıcalı Dijital Arşivi // 2026</h1>
-    <p>Lütfen erişmek istediğiniz dizini seçin:</p>
-    <ul>
-        <li><a href="./drama-em-gente/egenin-gunlugu/kemal-ile-tanisma-21-11-2025-0015.md">Ege Ilıcalı / Günlük</a></li>
-      
-    </ul>
+    <h2>Dizin: /root</h2>
+    <div class="directory-box">
+        <div class="item folder"><a href="./egenin-gunlugu/index.html">Ege_Ilicali/</a></div>
+    </div>
 </body>
 </html>
