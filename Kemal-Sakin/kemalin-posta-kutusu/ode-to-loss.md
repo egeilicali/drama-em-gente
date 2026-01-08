@@ -2,7 +2,7 @@ Değerli dostum Kemal. Zor zamanlar atlattığının farkındayım. Sana her zam
 Belki de bu yazdığım sözler sana biraz yol gösterir. 
 Böyle zamanlarda lafı çok uzatmamak gerektiği için bu mesajı burada bitiriyorum. 
 -Arkadaşın, Fikri Y. 
-7.01.2025
+7.01.2026
 
 Kayıba Övgü
 
