@@ -1,0 +1,20 @@
+/* style.css */
+body { 
+    font-family: monospace; 
+    background: #f4f4f4; 
+    padding: 20px; 
+}
+
+.directory-box { 
+    background: white; 
+    border: 1px solid #ccc; 
+    padding: 15px; 
+    border-radius: 5px; 
+}
+
+.item { margin: 5px 0; }
+.folder::before { content: "📁 "; }
+.file::before { content: "📄 "; }
+
+a { text-decoration: none; color: blue; }
+a:hover { text-decoration: underline; }
